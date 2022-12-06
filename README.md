@@ -1,3 +1,3 @@
 # Laboratorio_POO
-Actividades del laboratorio de POO
+Actividades de programacion orientada a objetos POO en Java
 
